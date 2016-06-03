@@ -28,6 +28,7 @@ public class Map implements Objeto{
                 world[i][j] = WATER; 
             }
         }
+        
     }
 
     @Override
